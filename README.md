@@ -1,4 +1,4 @@
-![ALT_TEXT](IMAGE_URL)
+![code coverage badge](https://github.com/gmanasch/learn-cicd-starter/blob/addtests/.github/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
